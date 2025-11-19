@@ -1,0 +1,1 @@
+print('To jest pierwszy tekst')
