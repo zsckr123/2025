@@ -5,3 +5,4 @@ print(len(a))
 print(a[0])
 #Ostatni znak
 print(a[-1])
+#
