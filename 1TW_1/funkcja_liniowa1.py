@@ -4,4 +4,4 @@ def funkcja(x):
     return 2*x-3
     
 for i in range(20):
-    print(funkcja(i))
+    print(f'wartosc funkcji dla x={i} {funkcja(i)}')
