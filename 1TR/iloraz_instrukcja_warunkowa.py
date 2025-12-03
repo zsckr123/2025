@@ -4,6 +4,6 @@ def iloraz(a,b):
     return a/b
 
 
-x = int(input('Podaj pierwszą liczbę'))
-y = int(input('Podaj drugą liczbę'))
+x = float(input('Podaj pierwszą liczbę='))
+y = float(input('Podaj drugą liczbę='))
 print('iloraz wynosi: ', iloraz(x,y))
