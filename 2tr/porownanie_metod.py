@@ -55,8 +55,8 @@ def porownanie_metod(lista):
 def lista():
     lista = []
 
-    for _ in range(5000): # ilosc elementow sortowanych
-        liczba = randint(-20000,2000) #przedzial z ktorego pobieramy elementy do sortowania
+    for _ in range(8000): # ilosc elementow sortowanych
+        liczba = randint(-20000,20000) #przedzial z ktorego pobieramy elementy do sortowania
         lista.append(liczba)
     return lista
 
