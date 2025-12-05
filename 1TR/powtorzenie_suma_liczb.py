@@ -3,6 +3,5 @@ def suma(x,y):
 
 a = float(input('Podaj pierwszą liczbę= '))
 
-
-b = float(input('Podaj pierwszą liczbę= '))
+b = float(input('Podaj drugą liczbę= '))
 print('suma liczb:',suma(a,b))
