@@ -14,7 +14,12 @@
 <b><i>łączenie znaczników</i></b><br>
 <em>Jak wyróżnić tekst na ekranie (emfaza)?</em><br>
 <strong>Jak wyróżnić tekst na ekranie (emfaza)?</strong><br>
-2<sup>3</sup>
+2<sup>3</sup><br>
 x<sub>3</sub>
+<h2>LIsta</h2>
+<ul>
+	<li>punkt pierwszy</li>
+	<li>punkt drugi</li>
+</ul>
 </body>
 </html>
