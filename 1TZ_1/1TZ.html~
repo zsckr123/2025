@@ -5,7 +5,7 @@
 	<meta name="description" content="Tu wpisz opis zawartości strony">
 	<title>1TZ</title>
 </head>
-<body style="background-color:yellow;">
+<body style="background-color:green;">
 
 <h1>Pogoda kosmiczna</h1> 
 <p style="background-color:beige;">
@@ -20,7 +20,32 @@
 	Ziemia ma naturalne mechanizmy ochronne przed wpływami zewnętrznymi. Magnetosfera, jonosfera i atmosfera Ziemi pełnią rolę filtra wobec materii i promieniowania z kosmosu. W szczególności magnetosfera jako najbardziej zewnętrzna stanowi główną przeszkodę dla wiatru słonecznego i odchyla jego kierunek przepływu wokół Ziemi.
 </p>
 <p>
-	Główną przyczyną zmian pogody kosmicznej jest zmienność struktur w koronie słonecznej. Tzw. koronalne wyrzuty masy (ang. Coronal Mass Ejection, CME) i rozbłyski słoneczne uwalniają ogromne ilości materii i energii, tworząc ogromne fale uderzeniowe w wietrze słonecznym, które uderzają w magnetosfery planet. 
+	Główną przyczyną zmian pogody kosmicznej 
+	jest zmienność struktur w koronie słonecznej. Tzw. koronalne wyrzuty masy 
+	<em>(ang. Coronal Mass Ejection, CME)</em> i rozbłyski słoneczne uwalniają ogromne ilości materii i energii, tworząc ogromne fale uderzeniowe w wietrze słonecznym, które uderzają w magnetosfery planet. 
+</p>
+
+<h2>Badania</h2>
+
+<p>
+	Potencjalnie negatywny wpływ pogody kosmicznej sprawia, że jej prognozy są obecnie ważną gałęzią badań naukowych, a także analiz komercyjnych[1].
+</p>
+<p>
+Łańcuch powiązań pogody kosmicznej i środowiska ziemskiego jest badany na różnych etapach przez różne programy:
+<ul>
+	<li>
+   	 Europejska Agencja Kosmiczna powołała Zespół roboczy ds. pogody kosmicznej (SWWT, ang. Space Weather Working Team), który analizuje dane z satelity SOHO (ang. Solar and Heliospheric Observatory).
+	</li>
+	<li>    
+    Sieć satelitów Cluster monitoruje aktywność słoneczną i bada interakcje między wiatrem słonecznym i polem magnetycznym Ziemi.
+</li>
+<li>    
+    Teleskop EIT (EUV Imaging Telescope) z obserwatorium kosmicznego SOHO co minutę rejestruje obraz Słońca w ultrafiolecie, w którym uwidaczniają się struktury i procesy dynamiczne w koronie, pochodnie, obszary aktywne, plamy słoneczne, drobnoskalowa struktura pola magnetycznego itp.
+</li>
+<li>   
+    Koronograf LASCO (Large Angle Spectrometer COronagraph) na pokładzie SOHO obserwuje środowisko Słońca, od limbu do odległości 32 promieni słonecznych. To pozwala na obserwację CME, także takich, które poruszają się dokładnie na linii Słońce-Ziemia (tzw. zjawiska halo). Od uruchomienia urządzenia LASCO dokonano znaczącego postępu w badaniach tych zjawisk.
+</li>
+</ul>
 </p>
 </body>
 </html>
