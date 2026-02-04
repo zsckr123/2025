@@ -32,7 +32,7 @@
 </p>
 <p>
 Łańcuch powiązań pogody kosmicznej i środowiska ziemskiego jest badany na różnych etapach przez różne programy:
-<ul>
+<ol>
 	<li>
    	 Europejska Agencja Kosmiczna powołała Zespół roboczy ds. pogody kosmicznej (SWWT, ang. Space Weather Working Team), który analizuje dane z satelity SOHO (ang. Solar and Heliospheric Observatory).
 	</li>
@@ -45,7 +45,7 @@
 <li>   
     Koronograf LASCO (Large Angle Spectrometer COronagraph) na pokładzie SOHO obserwuje środowisko Słońca, od limbu do odległości 32 promieni słonecznych. To pozwala na obserwację CME, także takich, które poruszają się dokładnie na linii Słońce-Ziemia (tzw. zjawiska halo). Od uruchomienia urządzenia LASCO dokonano znaczącego postępu w badaniach tych zjawisk.
 </li>
-</ul>
+</ol>
 </p>
 </body>
 </html>
