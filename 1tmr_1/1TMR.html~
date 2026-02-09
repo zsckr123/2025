@@ -5,7 +5,7 @@
 	<meta name="description" content="Tu wpisz opis zawartości strony">
 	<title>1TMR</title>
 </head>
-<body>
+<body  style="background-color:beige;">
 
 <h1>Linux</h1> 
 <p style="background-color:beige;" align="center">
@@ -25,6 +25,6 @@
 <li><a href="https://www.fedoraproject.org/">Fedora</a></li>
 <li><a href="https://manjaro.org/">Manjaro</a></li>
 </ul>
-<img src="debian-logo-1024x576.png" alt="Logo Debian">
+<a href="https://ubuntu.com/download" alt="obrazek"><img src="debian-logo-1024x576.png"  width="20%" alt="Logo Debian"></a>
 </body>
 </html>
