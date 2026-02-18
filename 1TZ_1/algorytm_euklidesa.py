@@ -14,7 +14,7 @@ while True:
             liczba2 = reszta
     print("najwiekszy wspolny dzielnik to:", liczba1)
     nww = a * b/ liczba1
-    print(f'NWW ( {a} {b} ) = {nww}')
+    print(f'NWW ( {a}, {b} ) = {nww}')
     key = input('Podaj x aby zakończyć')
     if key == 'x':
         break
