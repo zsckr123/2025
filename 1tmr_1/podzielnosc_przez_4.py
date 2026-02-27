@@ -1,0 +1,7 @@
+liczba = int(input('Podaj liczbe '))
+podziel_4 = str(liczba)
+dlugosc = len(podziel_4)
+print(dlugosc)
+print('ostatnia cyfra ', podziel_4[-1])
+print('przedostatnia cyfra ', podziel_4[-2])
+print('dwie ostatnie cyfry ', int(podziel_4[-2]+podziel_4[-1]) )
