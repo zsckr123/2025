@@ -18,5 +18,6 @@ start = time.time()
 for i in range(1,10001):
     liczba_losowa = random.randint(1,1000000)
     lista_losowa.append(liczba_losowa)
-# print(sorted(lista,reverse=True))
-print(sort_b(lista_losowa))
+sort_b(lista_losowa)
+stop = time.time()
+print(stop-start)
