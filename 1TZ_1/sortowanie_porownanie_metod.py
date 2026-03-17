@@ -4,7 +4,6 @@ from random import random, randint
 
 # Sortowanie przez wstawianie
 def sort_insert(A):
-
     for i in range(1,len(A)):
         klucz = A[i]
         j = i - 1
@@ -17,7 +16,7 @@ def sort_insert(A):
 # Sortowanie bąbelkowe
 def babelek(t):
   for i in range(len(t)-1):
-    if t[i] > t[i+1]:   # zmiana znak = zmiana trybu sortowania
+    if t[i] < t[i+1]:   # zmiana znak = zmiana trybu sortowania
       t[i], t[i+1] = t[i+1], t[i] #  przestawienie elementów
   return t
 
@@ -46,7 +45,6 @@ def porownanie_metod(lista):
 
 def lista():
     lista = []
-
     for _ in range(10001):
         liczba = randint(1,1000000)
         lista.append(liczba)
