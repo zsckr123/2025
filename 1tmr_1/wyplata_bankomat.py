@@ -3,11 +3,10 @@ def reszta(kwota, bankomat):
     wynik = {}
 
     for m in bankomat:
-        while kwota >= m:
-            ilosc_nom = kwota // m  
+        if kwota >= m:
+            ilosc_nom = kwota // m
             kwota = kwota % m
-            print(kwota)
-            wynik[ilosc_nom]=m
+            wynik[m] = ilosc_nom
 
     return wynik
 
