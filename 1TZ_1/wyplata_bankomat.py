@@ -15,4 +15,4 @@ def reszta(kwota, bankomat):
     return wynik
 
 
-print(reszta(124, [50, 100, 200]))
+print(reszta(2150, [50, 100, 200]))
