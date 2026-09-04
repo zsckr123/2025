@@ -28,9 +28,9 @@ def plecak(nazwy, wagi, wartosci, W):
 
 
 nazwy = ["laptop", "książka", "butelka", "kurtka"]
-wagi = [2, 3, 4, 5]
+wagi = [2, 2, 4, 2]
 wartosci = [3, 4, 5, 6]
-W = 5
+W = 7
 
 wynik, przedmioty = plecak(nazwy, wagi, wartosci, W)
 
