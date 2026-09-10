@@ -19,3 +19,11 @@ suma = 0
 for i in range(1,n+1):
     suma+=i
 print(f"Suma {n} liczba wynosi {suma}")
+# odwroc tekst
+napis = "beta"
+print(napis[::-1])
+
+def odwroc(text):
+    return text[::-1]
+t = input("Podaj tekst: ")
+print(odwroc(t))
