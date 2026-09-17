@@ -1,6 +1,6 @@
 # odwroc tekst
-# napis = "informatyka"
-# print(napis[::-1])
+napis = "informatyka"
+print(napis[::-1])
 
 def odwroc(text):
     return text[::-1]
