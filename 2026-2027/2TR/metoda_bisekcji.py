@@ -27,3 +27,6 @@ def metoda_bisekcji():
             lewy = x
     return x
 print(metoda_bisekcji())
+
+
+#
