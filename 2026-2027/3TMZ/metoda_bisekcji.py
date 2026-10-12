@@ -1,5 +1,5 @@
 def f(x):
-    return (2*x**3)/(x**2+1)
+    return x**4-32
 
 def metoda_bisekcji():
     epsilon = abs(float(input('Podaj dokladność wartości funkcji=')))
