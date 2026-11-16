@@ -1,0 +1,8 @@
+print('działania arytmetyczne')
+a=float(input('podaj pierwszą liczbę='))
+b=float(input('podaj drugą liczbę='))
+print('Dodawanie:', a+b)
+print('odejmowanie:', a-b)
+print('mnożenie:', a*b)
+print('dzielenie:', a/b)
+print('potęgowanie:', a**b)
