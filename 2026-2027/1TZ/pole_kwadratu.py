@@ -1,5 +1,7 @@
 
-def pole_kwadratu(r):
-    return r**2
-bok = float(input('Podaj bok='))
-print('pole kwadratu wynosi: ', pole_kwadratu(bok))
+
+def pole_kwadratu(R):
+    return R**2
+
+bok =float(input('Podaj bok='))
+print('Pole kwadratu wynosi:',pole_kwadratu(bok))
